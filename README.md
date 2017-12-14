@@ -1,5 +1,7 @@
 # myCart
 
+This is what our REST API does:
+
 URL  http://localhost:8080/myShop/product/
 
 GET request to /myShop/product/ returns a list of products
